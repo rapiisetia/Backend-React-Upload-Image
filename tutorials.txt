@@ -1,2 +1,3 @@
 CMD
 - npm init -y (package.json)
+- npm i express express-file-upload mysql2 sequelize cors
